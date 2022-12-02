@@ -1,16 +1,16 @@
-# rn-parallax-scrollview
-rn-parallax-scrollview like a parallax and sticky header
+# rn-update-parallax-scrollview
+rn-update-parallax-scrollview like a parallax and sticky header
 
 ## Installation
 
 ```
-$ npm install rn-parallax-scrollview --save
+$ npm install rn-update-parallax-scrollview --save
 ```
 
 ## Basic Usage
 
 ```js
-import ParallaxScrollView from 'rn-parallax-scrollview';
+import ParallaxScrollView from 'rn-update-parallax-scrollview';
 
 // Inside of a component's render() method:
 render() {
